@@ -1,1 +1,1 @@
-{"version": 3, "fecha": "2026-10-21", "origen": "salidas/visor_3d_v7.html", "cambios": "estaciones alineadas con la linea (las cabinas salen por los extremos); los poligonos del KMZ pasan a ser el predio; plaza de acceso rehecha sobre el predio"}
+{"version": 4, "fecha": "2026-10-21", "origen": "salidas/visor_3d_v7.html", "cambios": "cerro con Sentinel-2 llevado a 2,5 m con superresolucion SEN2SR (ESA OpenSR), ilustrativo"}
