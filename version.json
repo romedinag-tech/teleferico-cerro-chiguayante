@@ -1,1 +1,1 @@
-{"version": 5, "fecha": "2026-10-23", "origen": "salidas/visor_3d_v7.html (index) y salidas/visor_3d_v8_realismo.html (realismo.html)", "cambios": "realismo.html: oclusion ambiental N8AO + SMAA y techos inclinados por tipologia (supuesto de imagen) con color de la ortofoto; index sin cambios para comparar"}
+{"version": 6, "fecha": "2026-10-23", "origen": "salidas/visor_3d_v8_realismo.html (index y realismo.html); anterior.html = v4 (salidas/visor_3d_v7.html)", "cambios": "promovido a la portada: oclusion ambiental y techos inclinados (aprobado por Rodrigo)"}
