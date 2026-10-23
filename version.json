@@ -1,1 +1,1 @@
-{"version": 4, "fecha": "2026-10-21", "origen": "salidas/visor_3d_v7.html", "cambios": "cerro con Sentinel-2 llevado a 2,5 m con superresolucion SEN2SR (ESA OpenSR), ilustrativo"}
+{"version": 5, "fecha": "2026-10-23", "origen": "salidas/visor_3d_v7.html (index) y salidas/visor_3d_v8_realismo.html (realismo.html)", "cambios": "realismo.html: oclusion ambiental N8AO + SMAA y techos inclinados por tipologia (supuesto de imagen) con color de la ortofoto; index sin cambios para comparar"}
